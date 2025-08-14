@@ -22,7 +22,7 @@ This repository contains the front-end UI of a Netflix clone, designed to closel
 
 1. **Clone the repository:**
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/Hydro-lab-del/Netflix-UI-Clone
    ```
 2. **Open the UI:**
    - Navigate to the `public/` folder.
